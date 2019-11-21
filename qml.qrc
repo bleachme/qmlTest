@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>winndow.qml</file>
+        <file>img1.png</file>
+        <file>next.qml</file>
+    </qresource>
+</RCC>
